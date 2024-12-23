@@ -1,0 +1,19 @@
+{
+  "name": "tss-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/tss.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^5.2.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "elliptic": "^6.6.1",
+    "web3": "^1.10.4"
+  }
+}
